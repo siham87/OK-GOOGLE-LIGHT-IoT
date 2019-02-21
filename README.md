@@ -5,7 +5,7 @@ OK GOOGLE!! TURN ON THE LIGHT
 Ce projet à été réalisé par [@siham](https://github.com/siham87)
 
 ## Video :
-[![video](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
+[![video](https://img.youtube.com/vi/WUsPAotDVLQ/0.jpg)](https://www.youtube.com/watch?v=WUsPAotDVLQ)
 
 
 ## **Bibliothéque utilisée**
@@ -20,7 +20,7 @@ Ce projet à été réalisé par [@siham](https://github.com/siham87)
 
 ## **Montage**
 
-![schema : ](OK-GOOGLE-LED-FRITZING.png)
+![schema : ](OK-GOOGLE-LED-FRITZING.jpg)
 
 ## **Code**
 
